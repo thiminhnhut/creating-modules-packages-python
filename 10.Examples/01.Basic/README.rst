@@ -12,7 +12,7 @@ Tham khảo
 
 2. `Modules and Packages <https://goo.gl/ctysN7>`_
 
-3. `https://realpython.com/python-modules-packages/ <https://goo.gl/ttxxQj>`_
+3. `Python Modules and Packages - An Introduction <https://goo.gl/ttxxQj>`_
 
 4. `How To Write Modules in Python 3 <https://goo.gl/HE5UfM>`_
 
