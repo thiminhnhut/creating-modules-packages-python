@@ -7,7 +7,7 @@ Creating Modules and Packages in Python
 
 .. sectnum::
 
-..contents:: Nội dung
+.. contents:: Nội dung
 
 Nội dung thực hiện
 ******************
